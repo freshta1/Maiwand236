@@ -5,6 +5,8 @@ public class abc1 {
 	
 		System.out.println("This is the 2nd day :)");
 		
+		System.out.println("This is addedd by Ajmal");
+		
 	}
 
 }
